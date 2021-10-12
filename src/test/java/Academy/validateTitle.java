@@ -52,10 +52,12 @@ public class validateTitle extends base{
 	public void teardown()
 	{
 		
+		System.out.println("hello");
 		driver.close();
 	
 		
 	}
+	
 
 	
 
